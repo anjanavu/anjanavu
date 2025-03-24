@@ -7,6 +7,7 @@
   <div>
     <a href="http://linkedin.com/in/anjana-v-u-a00a3427a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/__a_n_j_a_n_a___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://portfolio-qsf.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   </div>
   
   <br>
