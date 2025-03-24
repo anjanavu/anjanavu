@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/anjanavu">
-    <img height="180em" src=""/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjanavu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanavu&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
@@ -70,6 +70,7 @@
 <!-- GitHub Contribution Graph -->
 <div align="center">
   <a href="https://github.com/anjanavu">
+    
     <img width="830em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanavu&theme=tokyonight" />
   </a>
 </div>
